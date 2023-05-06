@@ -6,4 +6,7 @@ hjhjhkjhkjj`
 创建分支dev、
 这是dev里的内容
 chunchunnnnnnnnnnn
-这一行是来自java101的问候
+<<<<<<< HEAD
+这一行是来自java101的问=======
+god!!!!!!!!!!!!!!
+>>>>>>> 5a3ab2f920e3e680c07ef384e6af04907014cb3a
